@@ -1,11 +1,12 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+.git
+#IDEA#
+.idea
+Training_1.iml
 
-# Other files and folders
-.settings/
+#Eclipse#
+.settings
+.classpath
+.project
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#Building sources#
+target
